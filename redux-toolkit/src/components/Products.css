@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    letter-spacing: 1px;
+    background-color: white;
+}
+.container{
+    margin-bottom: 10px;
+}
+.imgcenter{
+    text-align: center;
+}
+.img{
+    margin: 5px ;
+    width: 120px;
+    height: 130px;
+}
+.btn{
+    display: block;
+    margin: auto;
+}
